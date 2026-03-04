@@ -1,4 +1,4 @@
 {
-  "show_watch_button": "on",
-  "show_download_button": "on"
+  "show_watch_button": "off",
+  "show_download_button": "off"
 }
